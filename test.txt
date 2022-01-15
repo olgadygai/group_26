@@ -2,4 +2,5 @@ qa
 
 Manual
 Auto
-
+Olga_Dygai
+Vadim
