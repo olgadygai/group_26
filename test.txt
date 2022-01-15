@@ -1,3 +1,1 @@
-QA_Check_test
-QA_Manual
-
+qa
