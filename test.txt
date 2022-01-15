@@ -1,4 +1,5 @@
 qa
 
 Manual
+Auto
 
