@@ -1,0 +1,14 @@
+bug_report:
+Project:"Приют для животных"
+               Issue_Type - Bug
+               ID - BG2 
+               Summary - Фильтр "Сортировать по" на странице [Питомцы] не сортирует по Статусу.
+               Precondition -
+		  1) Открыть сайт http://130.193.37.179/app/pets
+               STR - 
+                  1) Нажать на фильтр "Сортировать по".
+                  2) Нажать на фильтр "Статус".
+               Actual_result - Карточки питомцев отсортированы без логической последовательности.
+               Expected_Result - Карточки питомцев отсортированы по статусам.
+               Priority - Major
+               Environment - Windows 10 Google Chrome Version 88.0.4324.190
